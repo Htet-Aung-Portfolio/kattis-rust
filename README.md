@@ -5,6 +5,7 @@ This repository contains various projects that I upload to https://open.kattis.c
 # Src
 
 This tag will contain the source of the kattis problem
+https://open.kattis.com/problems/telephones
 
 # Note
 
