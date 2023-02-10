@@ -1,0 +1,1 @@
+/Users/user/Documents/Htet\ Aung\ Hlaing/Portfolio/Kattis/Rust-Kattis/Quality-Adjusted-Life-Year/target/debug/Quality-Adjusted-Life-Year: /Users/user/Documents/Htet\ Aung\ Hlaing/Portfolio/Kattis/Rust-Kattis/Quality-Adjusted-Life-Year/src/main.rs
