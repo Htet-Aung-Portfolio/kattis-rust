@@ -1,1 +1,1 @@
-/Users/user/Documents/Htet\ Aung\ Hlaing/Portfolio/Kattis/Rust-Kattis/Challenge1/target/debug/Challenge1: /Users/user/Documents/Htet\ Aung\ Hlaing/Portfolio/Kattis/Rust-Kattis/Challenge1/src/main.rs
+/Users/user/Documents/Htet\ Aung\ Hlaing/Portfolio/Kattis/Rust-Kattis/alien_numbers/target/debug/Challenge1: /Users/user/Documents/Htet\ Aung\ Hlaing/Portfolio/Kattis/Rust-Kattis/alien_numbers/src/main.rs
